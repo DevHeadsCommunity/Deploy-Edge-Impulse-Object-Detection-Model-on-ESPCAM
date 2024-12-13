@@ -60,9 +60,9 @@ Edge Impulse simplifies the process of creating machine learning models for edge
 4. take pics of your object and save them
 
 ### 2. train the maodel
-1- upload the images you took 
+1- upload the images :
 ![image](https://github.com/user-attachments/assets/417eb6c0-2cb7-4f62-bbd3-9d3291f39340)
-it would be split by default to 80% training and 20% for testing r
+- it would be split by default to 80% training and 20% for testing 
 
 2- label the data : go to the labeling and draw a box on the object you want to detect on all the images and name the label on what the object is (egg in my case)
 3- configure your model: go to creat impulse and configure your model 
@@ -87,5 +87,8 @@ it would be split by default to 80% training and 20% for testing r
 3. in our case we are using ESP-CAM
   uncomment CAMERA_MODEL_AI_THINKER
   ![image](https://github.com/user-attachments/assets/02383b66-e764-4e6f-9026-4e2051b379e0)
-
+4. upload to your ESP-CAM
+  ![IMG_20241213_202820 1](https://github.com/user-attachments/assets/49978039-f9ac-4909-b167-ba27e953abb4)
+5. take off the **IO0 → GND** and open the terminal and observe the result
+  ![image](https://github.com/user-attachments/assets/fe496b5a-c064-483f-bf5d-96a62bae0c61)
 
