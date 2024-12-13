@@ -57,10 +57,11 @@ Edge Impulse simplifies the process of creating machine learning models for edge
 2. Open the Serial Monitor (`115200` baud) to get the IP address.
 3. Enter the IP address in a browser to access the camera interface.
 ![image](https://github.com/user-attachments/assets/fdf90e7b-0b6d-4f51-9b6f-f8f0803d9fc4)
-4. take pics of your object and save them
+4. take pictures of your object and save them
 
 ### 2. train the maodel
-1- upload the images :
+1- go to https://studio.edgeimpulse.com/signup  and creat an acout 
+-  go to data acqusition and upload the data  :
 ![image](https://github.com/user-attachments/assets/417eb6c0-2cb7-4f62-bbd3-9d3291f39340)
 - it would be split by default to 80% training and 20% for testing 
 
