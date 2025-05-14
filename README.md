@@ -1,4 +1,4 @@
-### 📚 Table of Contents
+###  Table of Contents
 
 - [Project Description](#deploy-edge-impulse-object-detection-model-on-espcam)
 - [Requirements](#requirements)
