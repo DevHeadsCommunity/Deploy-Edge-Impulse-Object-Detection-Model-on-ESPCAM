@@ -1,3 +1,19 @@
+### 📚 Table of Contents
+
+- [Project Description](#deploy-edge-impulse-object-detection-model-on-espcam)
+- [Requirements](#requirements)
+  - [Hardware](#hardware)
+  - [Software](#software)
+- [Project Setup](#project-setup)
+  - [1. Collect Images](#1-collect-images)
+    - [Hardware Setup](#-hardware-setup)
+    - [Install ESP32 Board](#-install-esp32-board)
+    - [Upload Code](#-upload-code)
+    - [Run the Web Server](#-run-the-web-server)
+  - [2. Train the Model](#2-train-the-maodel)
+  - [4. Deploy the Model](#4-deploy-the-model)
+
+
 # Deploy-Edge-Impulse-Object-Detection-Model-on-ESPCAM
 This project demonstrates how to deploy an object (egg) detection model trained using Edge Impulse on an ESPCAM module.
 
